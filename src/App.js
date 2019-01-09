@@ -7,11 +7,11 @@ import Menu from './components/Menu';
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div>
         <Navbar dark color="primary">
-          <div className="containar">
+          <div className="container">
             <NavbarBrand href="#">
-              Tutti Boni
+              Tutti Boni Pizza
             </NavbarBrand>
           </div>
         </Navbar>
